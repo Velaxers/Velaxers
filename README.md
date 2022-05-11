@@ -1,5 +1,5 @@
 *Notice: my GitHub profile is very outdated and does not represent all the projects I have worked on, I will update it in 2022's summer.
-- 👋 Hi, I’m @Velaxers
+- 👋 Hi, I’m Ahmed Ayman Abouelnour
 - 👀 I’m interested in Data Science, Software Development, Embedded Systems, and Robotics.
 - 🌱 I’m currently learning Computer Engineering in the Arab Academy for Science & Technology.
 - 📫 How to reach me: https://www.linkedin.com/in/ahmed-abouelnour/
